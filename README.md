@@ -1,7 +1,7 @@
 DelBot: Discord Delete Script
 ==========================
 
-**Uses 3.5+**
+**Uses Python 3.5+**
 
 
 ### Description: 
