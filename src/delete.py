@@ -13,7 +13,7 @@ class Delete(commands.Cog):
                     message.type == discord.MessageType.default
 
 
-    async def _delete_messages(self, channel, max_delete=1000000):
+    async def _delete_messages(self, channel, max_delete=300000):
         """Deletes messages from a Discord channel
         
         Retrieves messages from a discord channel limited  by a max
