@@ -1,7 +1,7 @@
 DelBot: Discord Delete Script
 ==========================
 
-.. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
+**Uses 3.5+**
 
 
 ### Description: 
